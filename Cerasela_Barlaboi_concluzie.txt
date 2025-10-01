@@ -1,0 +1,12 @@
+Recomandare strategică: Evaluarea scorului IMDb al conținutului
+
+Analiza datelor arată că factorii care influențează cel mai bine scorul IMDb sunt genul, țara de producție și, într-o măsură mai mică, durata și anul lansării.
+
+Genuri recomandate: Documentar, Drama și Crime – acestea au scoruri medii IMDb semnificativ mai mari decât alte genuri.
+
+Țări recomandate: Coreea de Sud, Japonia și Marea Britanie – filmele produse în aceste țări tind să obțină scoruri mai mari.
+
+Durata și anul lansării: Filmele mai scurte și cele lansate înainte de 2010 au ușor scoruri mai mari, dar efectul este mai slab comparativ cu genul și țara.
+
+Recomandarea pentru decizie:
+Pentru a maximiza succesul și vizibilitatea conținutului pe platformă, se recomandă prioritizarea producției și achiziției de filme din genurile Documentar, Drama și Crime, produse în Coreea de Sud, Japonia și Marea Britanie. Aceasta direcție strategică este susținută de modelul predictiv și de distribuția reală a scorurilor IMDb.
